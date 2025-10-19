@@ -32,4 +32,16 @@ I'm a passionate DevOps Engineer from Bangalore, India, focused on cloud-native 
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)  
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
 
+## 🧠 Oracle Cloud Infrastructure Certifications
+
+- ✅ **OCI 2023 Certified DevOps Professional**
+  - Kubernetes & Docker workload orchestration
+  - CI/CD pipeline design and monitoring on OCI
+  - DevOps strategy implementation
+
+- 🧠 **OCI 2025 Certified Generative AI Professional**
+  - Deep understanding of LLMs and transformer models
+  - Proficient in OCI Generative AI Service APIs
+  - Built RAG-based chatbot with vector search and contextual response generation
+
 
